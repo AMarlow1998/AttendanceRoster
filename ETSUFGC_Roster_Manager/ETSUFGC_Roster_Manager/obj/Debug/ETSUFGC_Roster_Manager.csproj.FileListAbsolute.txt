@@ -1,0 +1,11 @@
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\bin\Debug\ETSUFGC_Roster_Manager.exe.config
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\bin\Debug\ETSUFGC_Roster_Manager.exe
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\bin\Debug\ETSUFGC_Roster_Manager.pdb
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.csproj.AssemblyReference.cache
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.Properties.Resources.resources
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.csproj.GenerateResource.cache
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.exe
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.pdb
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.Form1.resources
+C:\Users\Avery\source\repos\ETSUFGC_Roster_Manager\ETSUFGC_Roster_Manager\obj\Debug\ETSUFGC_Roster_Manager.csproj.SuggestedBindingRedirects.cache
